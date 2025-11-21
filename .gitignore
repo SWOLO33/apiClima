@@ -1,0 +1,10 @@
+# Carpetas generadas por Maven
+target/
+
+# Configuracion privada de NetBeans
+nbproject/private/
+
+# Archivos temporales
+*.log
+*.tmp
+

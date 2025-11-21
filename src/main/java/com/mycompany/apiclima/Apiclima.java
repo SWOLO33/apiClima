@@ -86,6 +86,7 @@ public class Apiclima {
             System.out.printf("| Pais              : %s%n", pais);
             System.out.println("----------------------\n");
             System.out.println("scocolot UMAD on LINE 2025\n");
+            System.out.println("Prueba tu API ahora\n");
 
         } else {
             System.out.println("Ciudad no encontrada. Codigo HTTP: " + resp.statusCode());
